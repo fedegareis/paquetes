@@ -1,4 +1,4 @@
-# proyecto_pelis
+# Paquetes
 
 ## Tecnologías utilizadas
 
